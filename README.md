@@ -4,8 +4,8 @@
 
 ## Steps
 
-- [❌] Setup Project
-- [❌] Setup SDL
+- [✅] Setup Project
+- [✅] Setup SDL
 - [❌] Read Binary files
 - [❌] Setup Memory
 - [❌] Setup fonts
